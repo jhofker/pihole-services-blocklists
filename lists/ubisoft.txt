@@ -1,0 +1,4 @@
+0.0.0.0 ubi.com
+0.0.0.0 ubisoft.com
+0.0.0.0 ubisoftconnect.com
+0.0.0.0 ubisoft.org

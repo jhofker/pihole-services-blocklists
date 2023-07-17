@@ -1,0 +1,9 @@
+0.0.0.0 k1-lazadasg-oversea.gslb.ksyuncdn.com
+0.0.0.0 lazada.co.id
+0.0.0.0 lazada.co.th
+0.0.0.0 lazada.com
+0.0.0.0 lazada.com.my
+0.0.0.0 lazada.com.ph
+0.0.0.0 lazada.sg
+0.0.0.0 lazada.vn
+0.0.0.0 slatic.net

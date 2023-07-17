@@ -1,0 +1,8 @@
+0.0.0.0 ||gaikai.com
+0.0.0.0 ||playstation-cloud.com
+0.0.0.0 ||playstation-cloud.net
+0.0.0.0 ||playstation.com
+0.0.0.0 ||playstation.net
+0.0.0.0 ||scea.com
+0.0.0.0 ||sonyentertainmentnetwork.com
+0.0.0.0 ||station.sony.com

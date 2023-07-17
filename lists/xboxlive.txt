@@ -1,0 +1,8 @@
+0.0.0.0 gamepass.com
+0.0.0.0 xbox-global.ifs.windows.com
+0.0.0.0 xbox-guide-public.rec.mp.microsoft.com
+0.0.0.0 xbox.ipv6.microsoft.com
+0.0.0.0 xboxab.com
+0.0.0.0 xboxab.net
+0.0.0.0 xboxlive.com
+0.0.0.0 xboxservices.com

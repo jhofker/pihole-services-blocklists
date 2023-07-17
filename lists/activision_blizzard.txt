@@ -1,0 +1,3 @@
+0.0.0.0 activisionblizzard.com
+0.0.0.0 activision.com
+0.0.0.0 demonware.net
