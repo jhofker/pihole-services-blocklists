@@ -2,7 +2,6 @@ import json
 import requests
 import re
 
-pattern = r"\|\|(.+?)\^"
 
 def download_json(url):
     response = requests.get(url)
@@ -13,6 +12,8 @@ def download_json(url):
         return None
 
 def create_txt_files(data):
+    pattern = r"\|\|(.+?)\^"
+    import_list = ""
     for obj in data:
         obj_id = obj.get("id")
         rules = obj.get("rules")
@@ -27,6 +28,8 @@ def create_txt_files(data):
                       line = rule
                   file.write(f"0.0.0.0 {line}\n")
             print(f"Created {filename} file.")
+            import_list = f"{import_list} https://raw.githubusercontent.com/jhofker/pihole-services-blocklists/main/lists/{obj_id}.txt"
+    print(import_list)
 
 # Pulls AdguardHome service lists and converts it to individual files
 url = "https://adguardteam.github.io/HostlistsRegistry/assets/services.json"  
