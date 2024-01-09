@@ -10,3 +10,4 @@
 0.0.0.0 hbomaxcdn.com
 0.0.0.0 hbonow.com
 0.0.0.0 maxgo.com
+0.0.0.0 max.com

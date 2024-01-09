@@ -1,0 +1,6 @@
+0.0.0.0 betfair.com
+0.0.0.0 betfair.es
+0.0.0.0 betfair.se
+0.0.0.0 betfair.ro
+0.0.0.0 betfair.it
+0.0.0.0 betfair.com.au

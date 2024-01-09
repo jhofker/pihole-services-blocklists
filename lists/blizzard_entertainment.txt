@@ -1,7 +1,7 @@
 0.0.0.0 battle.net
 0.0.0.0 battlenet.com.cn
 0.0.0.0 blizzard.cn
-0.0.0.0 lizzard.com
+0.0.0.0 blizzard.com
 0.0.0.0 blizzardgames.cn
 0.0.0.0 blz-contentstack.com
 0.0.0.0 blzstatic.cn

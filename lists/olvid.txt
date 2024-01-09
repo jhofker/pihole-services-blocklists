@@ -1,0 +1,2 @@
+0.0.0.0 olvid.io
+0.0.0.0 olvid-attachment-chunks.s3.eu-west-3.amazonaws.com

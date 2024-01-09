@@ -1,3 +1,6 @@
 0.0.0.0 activisionblizzard.com
 0.0.0.0 activision.com
 0.0.0.0 demonware.net
+0.0.0.0 callofduty.com
+0.0.0.0 callofdutyleague.com
+0.0.0.0 codmwest.com

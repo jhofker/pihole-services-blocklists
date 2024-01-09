@@ -1,0 +1,4 @@
+0.0.0.0 samsungtvplus.com
+0.0.0.0 samsung.wurl.tv
+0.0.0.0 internetat.tv
+0.0.0.0 samsungcloud.tv

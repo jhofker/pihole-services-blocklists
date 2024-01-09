@@ -1,4 +1,4 @@
-0.0.0.0 |p16-tiktokcdn-com.akamaized.net^
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 amemv.com
 0.0.0.0 bdurl.com
 0.0.0.0 bytecdn.cn
@@ -22,3 +22,8 @@
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokv.com
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 ttlivecdn.com.c.bytefcdn-oversea.com
+0.0.0.0 ttlivecdn.com
+0.0.0.0 p16-tiktok-*.ibyteimg.com
+0.0.0.0 v*.tiktokcdn-eu.com

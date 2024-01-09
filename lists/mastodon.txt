@@ -12,8 +12,8 @@
 0.0.0.0 mastodonapp.uk
 0.0.0.0 masto.ai
 0.0.0.0 mastodon.uno
-0.0.0.0 fosstodon.org
 0.0.0.0 mstdn.party
+0.0.0.0 mastodon.top
 0.0.0.0 infosec.exchange
 0.0.0.0 hachyderm.io
 0.0.0.0 sfba.social
@@ -36,6 +36,7 @@
 0.0.0.0 wxw.moe
 0.0.0.0 piaille.fr
 0.0.0.0 mastodon.ie
+0.0.0.0 mastouille.fr
 0.0.0.0 mastodon.bida.im
 0.0.0.0 mastodon.com.tr
 0.0.0.0 masto.nu
@@ -55,7 +56,6 @@
 0.0.0.0 mathstodon.xyz
 0.0.0.0 mastodon.green
 0.0.0.0 social.cologne
-0.0.0.0 twingyeo.kr
 0.0.0.0 awscommunity.social
 0.0.0.0 social.linux.pizza
 0.0.0.0 indieweb.social
@@ -76,7 +76,6 @@
 0.0.0.0 mastodont.cat
 0.0.0.0 cyberplace.social
 0.0.0.0 masto.pt
-0.0.0.0 mastodonners.nl
 0.0.0.0 livellosegreto.it
 0.0.0.0 union.place
 0.0.0.0 urbanists.social
@@ -95,5 +94,6 @@
 0.0.0.0 mastodon.eus
 0.0.0.0 wien.rocks
 0.0.0.0 muenster.im
+0.0.0.0 todon.eu
 0.0.0.0 mastodon.zaclys.com
 0.0.0.0 cupoftea.social

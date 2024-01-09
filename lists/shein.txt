@@ -1,0 +1,4 @@
+0.0.0.0 shein.com
+0.0.0.0 shein.co.uk
+0.0.0.0 shein.se
+0.0.0.0 sheinsz.ltwebstatic.com
