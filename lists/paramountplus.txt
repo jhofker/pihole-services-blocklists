@@ -1,2 +1,2 @@
-0.0.0.0 paramountplus.com
-0.0.0.0 pplusstatic.com
+0.0.0.0 *.paramountplus.com
+0.0.0.0 *.pplusstatic.com

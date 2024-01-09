@@ -1,1 +1,1 @@
-0.0.0.0 onlyfans.com
+0.0.0.0 *.onlyfans.com

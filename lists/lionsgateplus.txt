@@ -1,2 +1,2 @@
-0.0.0.0 lionsgateplus.com
-0.0.0.0 starz.com
+0.0.0.0 *.lionsgateplus.com
+0.0.0.0 *.starz.com

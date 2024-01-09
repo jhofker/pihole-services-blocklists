@@ -1,2 +1,2 @@
-0.0.0.0 xiaohongshu.com
-0.0.0.0 xhscdn.com
+0.0.0.0 *.xiaohongshu.com
+0.0.0.0 *.xhscdn.com

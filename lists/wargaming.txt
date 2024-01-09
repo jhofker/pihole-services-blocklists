@@ -1,8 +1,8 @@
-0.0.0.0 wargaming.com
-0.0.0.0 wargaming.net
-0.0.0.0 wgcrowd.io
-0.0.0.0 worldoftanks.com
-0.0.0.0 worldofwarplanes.com
-0.0.0.0 worldofwarships.eu
-0.0.0.0 wotblitz.com
-0.0.0.0 wgcdn.co
+0.0.0.0 *.wargaming.com
+0.0.0.0 *.wargaming.net
+0.0.0.0 *.wgcrowd.io
+0.0.0.0 *.worldoftanks.com
+0.0.0.0 *.worldofwarplanes.com
+0.0.0.0 *.worldofwarships.eu
+0.0.0.0 *.wotblitz.com
+0.0.0.0 *.wgcdn.co

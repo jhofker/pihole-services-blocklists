@@ -26,7 +26,7 @@ def create_txt_files(data):
                       line = match.group(1)
                   else:
                       line = rule
-                  file.write(f"0.0.0.0 {line}\n")
+                  file.write(f"0.0.0.0 *.{line}\n")
             print(f"Created {filename} file.")
             import_list = f"{import_list} https://raw.githubusercontent.com/jhofker/pihole-services-blocklists/main/lists/{obj_id}.txt"
     print(import_list)

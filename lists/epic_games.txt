@@ -1,7 +1,7 @@
-0.0.0.0 epicgames.com
-0.0.0.0 easyanticheat.net
-0.0.0.0 easy.ac
-0.0.0.0 eac-cdn.com
-0.0.0.0 |cdn*-epicgames-*.file.myqcloud.com^
-0.0.0.0 |epicgames-download*-*.file.myqcloud.com^
-0.0.0.0 |epicgames-download*.akamaized.net^
+0.0.0.0 *.epicgames.com
+0.0.0.0 *.easyanticheat.net
+0.0.0.0 *.easy.ac
+0.0.0.0 *.eac-cdn.com
+0.0.0.0 *.|cdn*-epicgames-*.file.myqcloud.com^
+0.0.0.0 *.|epicgames-download*-*.file.myqcloud.com^
+0.0.0.0 *.|epicgames-download*.akamaized.net^

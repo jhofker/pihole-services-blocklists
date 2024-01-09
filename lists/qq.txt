@@ -1,3 +1,3 @@
-0.0.0.0 qq.com
-0.0.0.0 qq-video.cdn-go.cn
-0.0.0.0 url.cn
+0.0.0.0 *.qq.com
+0.0.0.0 *.qq-video.cdn-go.cn
+0.0.0.0 *.url.cn

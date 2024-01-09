@@ -1,2 +1,2 @@
-0.0.0.0 temu.com
-0.0.0.0 kwcdn.com
+0.0.0.0 *.temu.com
+0.0.0.0 *.kwcdn.com

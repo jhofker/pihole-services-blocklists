@@ -1,6 +1,6 @@
-0.0.0.0 dradis-prod.rdatasrv.net
-0.0.0.0 pvp.net
-0.0.0.0 rgpub.io
-0.0.0.0 riotcdn.com
-0.0.0.0 riotcdn.net
-0.0.0.0 riotgames.com
+0.0.0.0 *.dradis-prod.rdatasrv.net
+0.0.0.0 *.pvp.net
+0.0.0.0 *.rgpub.io
+0.0.0.0 *.riotcdn.com
+0.0.0.0 *.riotcdn.net
+0.0.0.0 *.riotgames.com

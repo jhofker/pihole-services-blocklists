@@ -1,3 +1,3 @@
-0.0.0.0 imgsmail.ru
-0.0.0.0 mail.ru
-0.0.0.0 mycdn.me
+0.0.0.0 *.imgsmail.ru
+0.0.0.0 *.mail.ru
+0.0.0.0 *.mycdn.me

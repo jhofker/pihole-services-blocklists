@@ -1,2 +1,2 @@
-0.0.0.0 looke.com.br
-0.0.0.0 ottvs.com.br
+0.0.0.0 *.looke.com.br
+0.0.0.0 *.ottvs.com.br

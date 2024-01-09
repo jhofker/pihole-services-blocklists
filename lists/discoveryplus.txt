@@ -1,2 +1,2 @@
-0.0.0.0 discoveryplus.com
-0.0.0.0 disco-api.com
+0.0.0.0 *.discoveryplus.com
+0.0.0.0 *.disco-api.com
