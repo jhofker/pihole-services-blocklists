@@ -1,17 +1,17 @@
-0.0.0.0 *.es.pn
-0.0.0.0 *.espncdn.com
-0.0.0.0 *.espn.com
-0.0.0.0 *.espncricinfo.com
-0.0.0.0 *.espn.net
-0.0.0.0 *.espn.com.ar
-0.0.0.0 *.espn.com.mx
-0.0.0.0 *.espn.com.co
-0.0.0.0 *.espn.com.pa
-0.0.0.0 *.espn.cl
-0.0.0.0 *.espn.com.ve
-0.0.0.0 *.espn.com.pe
-0.0.0.0 *.espn.com.ec
-0.0.0.0 *.||espn.in
-0.0.0.0 *.espn.com.au
-0.0.0.0 *.espn.co.uk
-0.0.0.0 *.espn.com.uy
+||es.pn^
+||espncdn.com^
+||espn.com^
+||espncricinfo.com^
+||espn.net^
+||espn.com.ar^
+||espn.com.mx^
+||espn.com.co^
+||espn.com.pa^
+||espn.cl^
+||espn.com.ve^
+||espn.com.pe^
+||espn.com.ec^
+||espn.in
+||espn.com.au^
+||espn.co.uk^
+||espn.com.uy^

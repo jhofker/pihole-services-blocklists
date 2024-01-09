@@ -1,6 +1,6 @@
-0.0.0.0 *.snapchat.com
-0.0.0.0 *.sc-cdn.net
-0.0.0.0 *.snap-dev.net
-0.0.0.0 *.||snapkit.co
-0.0.0.0 *.snapads.com
-0.0.0.0 *.impala-media-production.s3.amazonaws.com
+||snapchat.com^
+||sc-cdn.net^
+||snap-dev.net^
+||snapkit.co
+||snapads.com^
+||impala-media-production.s3.amazonaws.com^

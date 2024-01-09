@@ -1,2 +1,2 @@
-0.0.0.0 *.deezer.com
-0.0.0.0 *.dzcdn.net
+||deezer.com^
+||dzcdn.net^

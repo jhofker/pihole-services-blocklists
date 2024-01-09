@@ -1,2 +1,2 @@
-0.0.0.0 *.kakao.com
-0.0.0.0 *.kgslb.com
+||kakao.com^
+||kgslb.com^

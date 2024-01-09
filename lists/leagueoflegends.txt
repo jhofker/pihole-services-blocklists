@@ -1,5 +1,5 @@
-0.0.0.0 *.leagueoflegends.co.kr
-0.0.0.0 *.leagueoflegends.com
-0.0.0.0 *.lol.riotgames.com
-0.0.0.0 *.lolstatic.com
-0.0.0.0 *.lolusercontent.com
+||leagueoflegends.co.kr^
+||leagueoflegends.com^
+||lol.riotgames.com^
+||lolstatic.com^
+||lolusercontent.com^

@@ -1,2 +1,2 @@
-0.0.0.0 *.soundcloud.com
-0.0.0.0 *.sndcdn.com
+||soundcloud.com^
+||sndcdn.com^

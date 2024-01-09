@@ -1,3 +1,3 @@
-0.0.0.0 *.qq.com
-0.0.0.0 *.qq-video.cdn-go.cn
-0.0.0.0 *.url.cn
+||qq.com^$denyallow=wx.qq.com|weixin.qq.com
+||qq-video.cdn-go.cn^
+||url.cn^

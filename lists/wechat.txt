@@ -1,5 +1,5 @@
-0.0.0.0 *.wechat.com
-0.0.0.0 *.weixin.qq.com
-0.0.0.0 *.weixin.qq.com.cn
-0.0.0.0 *.weixinbridge.com
-0.0.0.0 *.wx.qq.com
+||wechat.com^
+||weixin.qq.com^
+||weixin.qq.com.cn^
+||weixinbridge.com^
+||wx.qq.com^

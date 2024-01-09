@@ -1,16 +1,16 @@
-0.0.0.0 *.bizographics.com
-0.0.0.0 *.cs1404.wpc.epsiloncdn.net
-0.0.0.0 *.cs767.wpc.epsiloncdn.net
-0.0.0.0 *.l-0005.dc-msedge.net
-0.0.0.0 *.l-0005.l-dc-msedge.net
-0.0.0.0 *.l-0005.l-msedge.net
-0.0.0.0 *.l-0015.l-msedge.net
-0.0.0.0 *.licdn.cn
-0.0.0.0 *.licdn.com
-0.0.0.0 *.linkedin.at
-0.0.0.0 *.linkedin.be
-0.0.0.0 *.linkedin.cn
-0.0.0.0 *.linkedin.com
-0.0.0.0 *.linkedin.nl
-0.0.0.0 *.linkedin.qtlcdn.com
-0.0.0.0 *.lnkd.in
+||bizographics.com^
+||cs1404.wpc.epsiloncdn.net^
+||cs767.wpc.epsiloncdn.net^
+||l-0005.dc-msedge.net^
+||l-0005.l-dc-msedge.net^
+||l-0005.l-msedge.net^
+||l-0015.l-msedge.net^
+||licdn.cn^
+||licdn.com^
+||linkedin.at^
+||linkedin.be^
+||linkedin.cn^
+||linkedin.com^
+||linkedin.nl^
+||linkedin.qtlcdn.com^
+||lnkd.in^

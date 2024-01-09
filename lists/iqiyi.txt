@@ -1,2 +1,2 @@
-0.0.0.0 *.iq.com
-0.0.0.0 *.iqiyi.com
+||iq.com^
+||iqiyi.com^

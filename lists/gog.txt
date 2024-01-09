@@ -1,4 +1,4 @@
-0.0.0.0 *.gog.com
-0.0.0.0 *.gog-cdn-lumen.secure2.footprint.net
-0.0.0.0 *.gog-statics.com
-0.0.0.0 *.gogalaxy.com
+||gog.com^
+||gog-cdn-lumen.secure2.footprint.net^
+||gog-statics.com^
+||gogalaxy.com^

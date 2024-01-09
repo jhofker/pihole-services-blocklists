@@ -1,8 +1,8 @@
-0.0.0.0 *.disney-plus.net
-0.0.0.0 *.disneyplus.com
-0.0.0.0 *.disney.playback.edge.bamgrid.com
-0.0.0.0 *.media.dssott.com
-0.0.0.0 *.disneynow.com
-0.0.0.0 *.hotstar.com
-0.0.0.0 *.star.playback.edge.bamgrid.com
-0.0.0.0 *.starplus.com
+||disney-plus.net^
+||disneyplus.com^
+||disney.playback.edge.bamgrid.com^
+||media.dssott.com^
+||disneynow.com^
+||hotstar.com^
+||star.playback.edge.bamgrid.com^
+||starplus.com^

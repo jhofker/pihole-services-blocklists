@@ -1,17 +1,17 @@
-0.0.0.0 *.comments.app
-0.0.0.0 *.contest.com
-0.0.0.0 *.graph.org
-0.0.0.0 *.quiz.directory
-0.0.0.0 *.t.me
-0.0.0.0 *.tdesktop.com
-0.0.0.0 *.telega.one
-0.0.0.0 *.telegra.ph
-0.0.0.0 *.telegram-cdn.org
-0.0.0.0 *.telegram.dog
-0.0.0.0 *.telegram.me
-0.0.0.0 *.telegram.org
-0.0.0.0 *.telegram.space
-0.0.0.0 *.telesco.pe
-0.0.0.0 *.tg.dev
-0.0.0.0 *.tx.me
-0.0.0.0 *.usercontent.dev
+||comments.app^
+||contest.com^
+||graph.org^
+||quiz.directory^
+||t.me^
+||tdesktop.com^
+||telega.one^
+||telegra.ph^
+||telegram-cdn.org^
+||telegram.dog^
+||telegram.me^
+||telegram.org^
+||telegram.space^
+||telesco.pe^
+||tg.dev^
+||tx.me^
+||usercontent.dev^

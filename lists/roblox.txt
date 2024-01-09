@@ -1,13 +1,13 @@
-0.0.0.0 *.blox.com
-0.0.0.0 *.rbx.com
-0.0.0.0 *.rbx.cn
-0.0.0.0 *.rbxcdn.com
-0.0.0.0 *.rbxcdn.net
-0.0.0.0 *.rbxinfra.com
-0.0.0.0 *.rbxinfra.net
-0.0.0.0 *.roblox.cn
-0.0.0.0 *.roblox.com
-0.0.0.0 *.roblox.qq.com
-0.0.0.0 *.robloxcdn.com
-0.0.0.0 *.robloxdev.cn
-0.0.0.0 *.rbxadder.com
+||blox.com^
+||rbx.com^
+||rbx.cn^
+||rbxcdn.com^
+||rbxcdn.net^
+||rbxinfra.com^
+||rbxinfra.net^
+||roblox.cn^
+||roblox.com^
+||roblox.qq.com^
+||robloxcdn.com^
+||robloxdev.cn^
+||rbxadder.com^

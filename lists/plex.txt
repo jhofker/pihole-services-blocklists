@@ -1,4 +1,4 @@
-0.0.0.0 *.plexapp.com
-0.0.0.0 *.plex.bz
-0.0.0.0 *.plex.direct
-0.0.0.0 *.plex.tv
+||plexapp.com^
+||plex.bz^
+||plex.direct^
+||plex.tv^

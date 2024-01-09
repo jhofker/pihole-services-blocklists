@@ -1,4 +1,4 @@
-0.0.0.0 *.globoplay.globo.com
-0.0.0.0 *.globoplay.com
-0.0.0.0 *.globoplay.com.br
-0.0.0.0 *.|cloud-jarvis.globo.com
+||globoplay.globo.com^
+||globoplay.com^
+||globoplay.com.br^
+|||cloud-jarvis.globo.com^

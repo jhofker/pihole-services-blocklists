@@ -1,99 +1,99 @@
-0.0.0.0 *.mastodon.social
-0.0.0.0 *.mastodon.online
-0.0.0.0 *.mastodon.social
-0.0.0.0 *.mstdn.jp
-0.0.0.0 *.mstdn.social
-0.0.0.0 *.mastodon.online
-0.0.0.0 *.mas.to
-0.0.0.0 *.mastodon.world
-0.0.0.0 *.mastodon.sdf.org
-0.0.0.0 *.universeodon.com
-0.0.0.0 *.techhub.social
-0.0.0.0 *.mastodonapp.uk
-0.0.0.0 *.masto.ai
-0.0.0.0 *.mastodon.uno
-0.0.0.0 *.mstdn.party
-0.0.0.0 *.mastodon.top
-0.0.0.0 *.infosec.exchange
-0.0.0.0 *.hachyderm.io
-0.0.0.0 *.sfba.social
-0.0.0.0 *.ohai.social
-0.0.0.0 *.mastodon.nl
-0.0.0.0 *.troet.cafe
-0.0.0.0 *.m.cmx.im
-0.0.0.0 *.mindly.social
-0.0.0.0 *.kolektiva.social
-0.0.0.0 *.mstdn.ca
-0.0.0.0 *.toot.community
-0.0.0.0 *.mastodon.scot
-0.0.0.0 *.nerdculture.de
-0.0.0.0 *.mastodon.au
-0.0.0.0 *.ioc.exchange
-0.0.0.0 *.aus.social
-0.0.0.0 *.tkz.one
-0.0.0.0 *.social.vivaldi.net
-0.0.0.0 *.ravenation.club
-0.0.0.0 *.wxw.moe
-0.0.0.0 *.piaille.fr
-0.0.0.0 *.mastodon.ie
-0.0.0.0 *.mastouille.fr
-0.0.0.0 *.mastodon.bida.im
-0.0.0.0 *.mastodon.com.tr
-0.0.0.0 *.masto.nu
-0.0.0.0 *.nrw.social
-0.0.0.0 *.mastodontech.de
-0.0.0.0 *.o3o.ca
-0.0.0.0 *.det.social
-0.0.0.0 *.mastodon.nu
-0.0.0.0 *.glasgow.social
-0.0.0.0 *.masto.es
-0.0.0.0 *.theblower.au
-0.0.0.0 *.sueden.social
-0.0.0.0 *.toot.wales
-0.0.0.0 *.noc.social
-0.0.0.0 *.ieji.de
-0.0.0.0 *.norden.social
-0.0.0.0 *.mathstodon.xyz
-0.0.0.0 *.mastodon.green
-0.0.0.0 *.social.cologne
-0.0.0.0 *.awscommunity.social
-0.0.0.0 *.social.linux.pizza
-0.0.0.0 *.indieweb.social
-0.0.0.0 *.muenchen.social
-0.0.0.0 *.mastodon.iriseden.eu
-0.0.0.0 *.ruhr.social
-0.0.0.0 *.mstdn.plus
-0.0.0.0 *.hessen.social
-0.0.0.0 *.climatejustice.social
-0.0.0.0 *.tech.lgbt
-0.0.0.0 *.social.anoxinon.de
-0.0.0.0 *.mastodon.nz
-0.0.0.0 *.social.dev-wiki.de
-0.0.0.0 *.toot.io
-0.0.0.0 *.socel.net
-0.0.0.0 *.hostux.social
-0.0.0.0 *.h4.io
-0.0.0.0 *.mastodont.cat
-0.0.0.0 *.cyberplace.social
-0.0.0.0 *.masto.pt
-0.0.0.0 *.livellosegreto.it
-0.0.0.0 *.union.place
-0.0.0.0 *.urbanists.social
-0.0.0.0 *.social.politicaconciencia.org
-0.0.0.0 *.pol.social
-0.0.0.0 *.metalhead.club
-0.0.0.0 *.lou.lt
-0.0.0.0 *.ruby.social
-0.0.0.0 *.mastodontti.fi
-0.0.0.0 *.toot.aquilenet.fr
-0.0.0.0 *.stranger.social
-0.0.0.0 *.toot.funami.tech
-0.0.0.0 *.rollenspiel.social
-0.0.0.0 *.lor.sh
-0.0.0.0 *.defcon.social
-0.0.0.0 *.mastodon.eus
-0.0.0.0 *.wien.rocks
-0.0.0.0 *.muenster.im
-0.0.0.0 *.todon.eu
-0.0.0.0 *.mastodon.zaclys.com
-0.0.0.0 *.cupoftea.social
+||mastodon.social^
+||mastodon.online^
+||mastodon.social^
+||mstdn.jp^
+||mstdn.social^
+||mastodon.online^
+||mas.to^
+||mastodon.world^
+||mastodon.sdf.org^
+||universeodon.com^
+||techhub.social^
+||mastodonapp.uk^
+||masto.ai^
+||mastodon.uno^
+||mstdn.party^
+||mastodon.top^
+||infosec.exchange^
+||hachyderm.io^
+||sfba.social^
+||ohai.social^
+||mastodon.nl^
+||troet.cafe^
+||m.cmx.im^
+||mindly.social^
+||kolektiva.social^
+||mstdn.ca^
+||toot.community^
+||mastodon.scot^
+||nerdculture.de^
+||mastodon.au^
+||ioc.exchange^
+||aus.social^
+||tkz.one^
+||social.vivaldi.net^
+||ravenation.club^
+||wxw.moe^
+||piaille.fr^
+||mastodon.ie^
+||mastouille.fr^
+||mastodon.bida.im^
+||mastodon.com.tr^
+||masto.nu^
+||nrw.social^
+||mastodontech.de^
+||o3o.ca^
+||det.social^
+||mastodon.nu^
+||glasgow.social^
+||masto.es^
+||theblower.au^
+||sueden.social^
+||toot.wales^
+||noc.social^
+||ieji.de^
+||norden.social^
+||mathstodon.xyz^
+||mastodon.green^
+||social.cologne^
+||awscommunity.social^
+||social.linux.pizza^
+||indieweb.social^
+||muenchen.social^
+||mastodon.iriseden.eu^
+||ruhr.social^
+||mstdn.plus^
+||hessen.social^
+||climatejustice.social^
+||tech.lgbt^
+||social.anoxinon.de^
+||mastodon.nz^
+||social.dev-wiki.de^
+||toot.io^
+||socel.net^
+||hostux.social^
+||h4.io^
+||mastodont.cat^
+||cyberplace.social^
+||masto.pt^
+||livellosegreto.it^
+||union.place^
+||urbanists.social^
+||social.politicaconciencia.org^
+||pol.social^
+||metalhead.club^
+||lou.lt^
+||ruby.social^
+||mastodontti.fi^
+||toot.aquilenet.fr^
+||stranger.social^
+||toot.funami.tech^
+||rollenspiel.social^
+||lor.sh^
+||defcon.social^
+||mastodon.eus^
+||wien.rocks^
+||muenster.im^
+||todon.eu^
+||mastodon.zaclys.com^
+||cupoftea.social^
