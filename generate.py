@@ -11,6 +11,7 @@ def download_json(url):
         print("Failed to download JSON:", response.status_code)
         return None
 
+
 def create_txt_files(data):
     pattern = r"\|\|(.+?)\^"
     import_list = ""
@@ -18,22 +19,19 @@ def create_txt_files(data):
         obj_id = obj.get("id")
         rules = obj.get("rules")
         if obj_id and rules:
-            filename = 'lists/' + obj_id + ".txt"
+            filename = "lists/" + obj_id + ".txt"
             with open(filename, "w") as file:
                 for rule in rules:
-                  match = re.search(pattern, rule)
-                  if match:
-                      line = match.group(1)
-                  else:
-                      line = rule
-                  file.write(f"0.0.0.0 *.{line}\n")
+                    line = rule
+                    file.write(f"{line}\n")
             print(f"Created {filename} file.")
             import_list = f"{import_list} https://raw.githubusercontent.com/jhofker/pihole-services-blocklists/main/lists/{obj_id}.txt"
     print(import_list)
 
+
 # Pulls AdguardHome service lists and converts it to individual files
-url = "https://adguardteam.github.io/HostlistsRegistry/assets/services.json"  
+url = "https://adguardteam.github.io/HostlistsRegistry/assets/services.json"
 
 json_data = download_json(url)
 if json_data:
-    create_txt_files(json_data['blocked_services'])
+    create_txt_files(json_data["blocked_services"])
