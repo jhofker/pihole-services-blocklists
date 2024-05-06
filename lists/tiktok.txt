@@ -4,8 +4,10 @@
 ||bytecdn.cn^
 ||bytedance.map.fastly.net^
 ||bytedapm.com^
+||bytegoofy.com^
 ||byteimg.com^
 ||byteoversea.com^
+||bytescm.com^
 ||douyin.com^
 ||douyincdn.com^
 ||douyinpic.com^
@@ -27,3 +29,4 @@
 ||ttlivecdn.com^
 ||p16-tiktok-*.ibyteimg.com^
 ||v*.tiktokcdn-eu.com^
+||zijieapi.com^

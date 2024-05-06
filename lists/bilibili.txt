@@ -13,6 +13,7 @@
 ||biliapi.com^
 ||biliapi.net^
 ||bilibili.cc^
+||bilibili.cn^
 ||bilibili.com^
 ||bilibili.net^
 ||bilibili.tv^
@@ -30,6 +31,8 @@
 ||biligame.com^
 ||biligame.net^
 ||biligo.com^
+||biliimg.com^
+||biliintl.com^
 ||bilivideo.cn^
 ||bilivideo.com^
 ||bilivideo.net^
