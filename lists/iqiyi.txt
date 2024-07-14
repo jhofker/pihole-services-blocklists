@@ -1,2 +1,8 @@
 ||iq.com^
 ||iqiyi.com^
+||iqiyipic.com^
+||pps.tv^
+||ppsimg.com^
+||qiyi.com^
+||qiyipic.com^
+||qy.net^

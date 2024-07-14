@@ -1,2 +1,3 @@
 ||xiaohongshu.com^
 ||xhscdn.com^
+||xhscdn.net^

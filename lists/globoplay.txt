@@ -1,4 +1,4 @@
 ||globoplay.globo.com^
 ||globoplay.com^
 ||globoplay.com.br^
-|||cloud-jarvis.globo.com^
+||cloud-jarvis.globo.com^
