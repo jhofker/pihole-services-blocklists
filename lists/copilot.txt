@@ -1,0 +1,5 @@
+||copilot.com^
+||copilot.ai^
+||copilot.microsoft.com^
+||copilot.cloud.microsoft^
+||copilotstudio.microsoft.com^

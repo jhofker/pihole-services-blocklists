@@ -1,0 +1,3 @@
+||play-fe.googleapis.com^
+||play-lh.googleusercontent.com^
+||prod-lt-playstoregatewayadapter-pa.googleapis.com^

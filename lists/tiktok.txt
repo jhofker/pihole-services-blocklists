@@ -30,3 +30,4 @@
 ||p16-tiktok-*.ibyteimg.com^
 ||v*.tiktokcdn-eu.com^
 ||zijieapi.com^
+||tiktokrow-cdn.com^
